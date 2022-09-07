@@ -1,21 +1,21 @@
 <h1 align="center">MVC BLOG Using MySQL, Sequalize, Bcrypt, MVC, Nodejs, and Express</h1>
 
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/NguyenDoan85/E-Commerce" />
-    <img src="https://img.shields.io/github/languages/top/NguyenDoan85/E-Commerce"  />
-    <img src="https://img.shields.io/github/issues/NguyenDoan85/E-Commerce" />
-    <img src="https://img.shields.io/github/last-commit/NguyenDoan85/E-Commerce" >
+    <img src="https://img.shields.io/github/repo-size/NguyenDoan85/MVC-BLOG" />
+    <img src="https://img.shields.io/github/languages/top/NguyenDoan85/MVC-BLOG"  />
+    <img src="https://img.shields.io/github/issues/NguyenDoan85/MVC-BLOG" />
+    <img src="https://img.shields.io/github/last-commit/NguyenDoan85/MVC-BLOG" >
     </a>
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Javascript-yellow" />
+    <img src="https://img.shields.io/badge/Nodejs-yellow" />
     <img src="https://img.shields.io/badge/Sequalize-blue"  />
-    <img src="https://img.shields.io/badge/-screentogif-lightgrey" />
-    <img src="https://img.shields.io/badge/dotev-orange" />
+    <img src="https://img.shields.io/badge/Bcrypt-lightgrey" />
+    <img src="https://img.shields.io/badge/dotenv-orange" />
     <img src="https://img.shields.io/badge/mySQL-blue"  />
     <img src="https://img.shields.io/badge/Express-green" />
-    
+    <img src="https://img.shields.io/badge/MVC-red" />
 </p>
 
 <p align="center">
