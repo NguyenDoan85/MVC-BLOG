@@ -37,6 +37,12 @@
 
 🔍 An application that used mysql database backend and follow MVC model. User can create, publish, and post on this BLOG for news, events, articles, etc.. 
 
+Here is heroku live link [MVC-BLOG](https://mcv-blog.herokuapp.com/).
+
+![Homepage](/public/img/homepage.jpg)
+![Signup](/public/img/signup.jpg)
+![Post](/public/img/test-create-post.jpg)
+
 ## User Story
 
 - AS A developer who writes about tech
